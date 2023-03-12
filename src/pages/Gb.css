@@ -1,0 +1,25 @@
+
+
+.btn1{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(42, 44, 50);
+    padding: 12px 24px;
+    border-radius: 4px;
+
+}
+
+.btn1:hover{
+
+    background-color: rgb(27, 26, 26);
+   
+}
+
+.container-text{
+
+    margin: 12px;
+    margin-left: 0px;
+    text-align: left;
+}
